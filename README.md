@@ -22,7 +22,7 @@ The weekly average never changes, but people cluster midweek, so the busiest day
 
 ## 4. Try the calculator
 
-Live version: <paste your calculator link here>
+Live version: <index.html>
 
 Change the headcount, days in office and midweek attendance, and it shows the fewest, most and needed desks, plus a split by office.
 
